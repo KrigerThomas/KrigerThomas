@@ -13,6 +13,7 @@
 ## 📫 Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/thomás-kriger)
+
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/KrigerThomas)
 
 
