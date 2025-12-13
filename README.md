@@ -2,11 +2,11 @@
 
 - 🎓 I'm a Computer Science student at Universidade Vila Velha (UVV)
 - 💻 I'm passionate about programming and game development
-- 🔍 I’m currently learning Python, C, SQL and JAVA.
+- 🔍 I’m currently learning Python, C, C#, SQL and JAVA.
 
 ## 🛠️ Skills
 
-- **Programming Languages**: Python, C, JAVA
+- **Programming Languages**: Python, C, JAVA, C#
 - **Technologies**: Basic knowledge in SQL, algorithms, and data manipulation
 - **Interests**: Game development, algorithms, and artificial intelligence
 
