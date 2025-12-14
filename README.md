@@ -1,20 +1,38 @@
-# Hi there, I'm Thomás 👋
+# Hi, I'm Thomás 👋
 
-- 🎓 I'm a Computer Science student at Universidade Vila Velha (UVV)
-- 💻 I'm passionate about programming and game development
-- 🔍 I’m currently learning Python, C, C#, SQL and JAVA.
+🎓 Computer Science student at Universidade Vila Velha (UVV), currently in the 5th semester.
 
-## 🛠️ Skills
+During my academic journey, I have been studying and practicing programming through coursework and academic projects, working with different languages and core concepts of computer science. My experience so far is focused on building a solid foundation in software development rather than professional experience.
 
-- **Programming Languages**: Python, C, JAVA, C#
-- **Technologies**: Basic knowledge in SQL, algorithms, and data manipulation
-- **Interests**: Game development, algorithms, and artificial intelligence
+## 🧠 Academic Background & Interests
+
+- Programming logic and algorithms  
+- Object-Oriented Programming (OOP)  
+- Data Structures  
+- Databases and SQL  
+- Software Engineering fundamentals  
+- Computer Architecture and Operating Systems  
+
+I have a particular interest in understanding how systems are structured and how code organization, patterns, and good practices impact software quality.
+
+## 🛠️ Technical Skills
+
+- **Programming Languages**: C, C#, Java, Python (basic), SQL  
+- **Technologies & Tools**:
+  - WPF (academic projects)
+  - Entity Framework Core
+  - GitHub
+  - MVC pattern
+- **Concepts**:
+  - OOP
+  - SOLID principles
+  - Clean Code (academic application)
+
+## 📂 Academic Projects
+
+Here on GitHub you can find projects developed during my degree, including desktop applications and systems built as part of coursework, applying design patterns, version control, and database integration.
 
 ## 📫 Get in Touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/thomás-kriger)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/KrigerThomas)
-
-
-Feel free to reach out to discuss programming, games, or just to chat about technology! 😊
+- 💼 LinkedIn: https://www.linkedin.com/in/thomás-kriger  
+- 💻 GitHub: https://github.com/KrigerThomas
