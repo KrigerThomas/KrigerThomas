@@ -1,6 +1,6 @@
 # Hi, I'm Thomás 👋
 
-🎓 Computer Science student at Universidade Vila Velha (UVV), currently in the 5th semester.
+🎓 Computer Science student at Universidade Vila Velha (UVV), currently in the 6th semester.
 
 During my academic journey, I have been studying and practicing programming through coursework and academic projects, working with different languages and core concepts of computer science. My experience so far is focused on building a solid foundation in software development rather than professional experience.
 
