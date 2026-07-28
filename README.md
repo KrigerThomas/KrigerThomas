@@ -81,8 +81,8 @@ Currently looking for an **internship in software development**.
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KrigerThomas&show_icons=true&theme=default&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KrigerThomas&layout=compact&hide_border=true&theme=default" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KrigerThomas&show_icons=true&theme=default&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrigerThomas&layout=compact&hide_border=true&theme=default" height="165"/>
 </p>
 
 <div align="center">
