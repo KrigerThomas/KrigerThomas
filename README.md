@@ -1,38 +1,17 @@
-# Hi, I'm Thomás 👋
+# Thomás Kriger
 
-🎓 Computer Science student at Universidade Vila Velha (UVV), currently in the 6th semester.
+Computer Science student at Universidade de Vila Velha (UVV), currently in my 6th semester, based in Vila Velha, Brazil.
 
-During my academic journey, I have been studying and practicing programming through coursework and academic projects, working with different languages and core concepts of computer science. My experience so far is focused on building a solid foundation in software development rather than professional experience.
+Most of my time goes into coursework and academic projects, where I've been building a solid foundation across the fundamentals — OOP, data structures, databases, and software architecture — while picking up good engineering habits along the way. I'm also currently involved in a research project applying continuous-time multi-state Markov models to study cognitive decline in Alzheimer's disease, working with blood proteomics data.
 
-## 🧠 Academic Background & Interests
+Languages I work with: C#, Java, Python, C, and SQL. I've also worked with Flask, Entity Framework Core, and WPF on academic projects.
 
-- Programming logic and algorithms  
-- Object-Oriented Programming (OOP)  
-- Data Structures  
-- Databases and SQL  
-- Software Engineering fundamentals  
-- Computer Architecture and Operating Systems  
+**A few things I've built:**
 
-I have a particular interest in understanding how systems are structured and how code organization, patterns, and good practices impact software quality.
+- **Bank teller system** — a desktop app built in C# with WPF for an OOP course, following the MVC pattern and SOLID principles. ([repo](https://github.com/KrigerThomas/UVVFintech_Grupo3))
+- **HelpNOW** — a Flask web platform for requesting home services, with user authentication, form validation, and protection against common web vulnerabilities like XSS and CSRF.
 
-## 🛠️ Technical Skills
+I'm currently looking for an internship in software development, where I can put what I've learned into practice.
 
-- **Programming Languages**: C, C#, Java, Python (basic), SQL  
-- **Technologies & Tools**:
-  - WPF (academic projects)
-  - Entity Framework Core
-  - GitHub
-  - MVC pattern
-- **Concepts**:
-  - OOP
-  - SOLID principles
-  - Clean Code (academic application)
-
-## 📂 Academic Projects
-
-Here on GitHub you can find projects developed during my degree, including desktop applications and systems built as part of coursework, applying design patterns, version control, and database integration.
-
-## 📫 Get in Touch
-
-- 💼 LinkedIn: https://www.linkedin.com/in/thomás-kriger  
-- 💻 GitHub: https://github.com/KrigerThomas
+**Get in touch:**
+[LinkedIn](https://www.linkedin.com/in/thomás-kriger) · [Email](mailto:krigerthomas@hotmail.com) · [GitHub](https://github.com/KrigerThomas)
