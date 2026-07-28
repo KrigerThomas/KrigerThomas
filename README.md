@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Thomás%20Kriger&fontSize=44&fontColor=ffffff&animation=fadeIn&desc=Computer%20Science%20Student%20%7C%20Software%20Development&descAlignY=45&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header"/>
+
+<h1>Thomás Kriger</h1>
+<p><b>Computer Science Student | Software Development</b></p>
 
 <p>
   <a href="https://www.linkedin.com/in/thomás-kriger">
@@ -81,8 +84,6 @@ Currently looking for an **internship in software development**.
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KrigerThomas&show_icons=true&theme=default&hide_border=true&count_private=true" height="165"/>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KrigerThomas&layout=compact&hide_border=true&theme=default" height="165"/>
 </p>
-
-> If these cards don't load, GitHub's stats widget may be rate-limited. Refreshing usually fixes it — the underlying data updates automatically either way.
 
 <div align="center">
 
