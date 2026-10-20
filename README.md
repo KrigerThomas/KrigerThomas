@@ -23,7 +23,7 @@
 
 Computer Science student at Universidade Vila Velha (UVV), currently in my 6th semester, based in Vila Velha, Brazil. My focus so far has been building a solid foundation in software development through coursework and academic projects (OOP, data structures, databases and software architecture), while picking up good engineering practices along the way.
 
-I'm also an undergraduate research fellow (PIBIC) on a project that will use continuous-time multi-state Markov models to study cognitive decline in Alzheimer's disease. For now I'm studying the theory behind it, like Markov chains, stationary distributions and maximum likelihood, and implementing the examples in Python.
+I'm also an undergraduate research fellow on a project that will use continuous-time multi-state Markov models to study cognitive decline in Alzheimer's disease. For now I'm studying the theory behind it, like Markov chains, stationary distributions and maximum likelihood, and implementing the examples in Python.
 
 Outside class, I'm the Technical Lead of UVV's AWS Student Builder Group and a volunteer at UVV's Virtual Reality Lab.
 
