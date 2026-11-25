@@ -61,8 +61,7 @@ Currently looking for an **internship in software development**.
         <b>🎮 Escape UVV</b>
       </a>
       <br>
-      Third-person 3D game set on the UVV campus, made in Unity 6 by a team of four. I'm the lead programmer: player movement, camera and the logic of the first level.
-      <br><br>
+      Third-person 3D game set on the UVV campus, made in Unity 6. 
       <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
       <img src="https://img.shields.io/badge/Unity%206-000000?style=flat-square&logo=unity&logoColor=white"/>
     </td>
